@@ -1,0 +1,10 @@
+{
+    "name": "guszn/projeto-ajax",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Guszn\\ProjetoAjax\\": "src/"
+        }
+    },
+    "require": {}
+}
